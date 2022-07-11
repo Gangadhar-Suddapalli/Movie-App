@@ -1,0 +1,28 @@
+svg:hover{
+    cursor: pointer;
+}
+
+.image-container d-flex justify-content-start m-3
+{
+    display: inline-block;
+    border: black solid 5px;
+}
+
+
+
+.ganga{
+    display: inline;
+}
+
+
+
+.col{
+    width: 200px;
+    color: red;
+}
+.x{
+    color: green;
+}
+.mr-2{
+    color: blue;
+}

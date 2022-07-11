@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.container-fluid{
+  background-color:yellow;
+}
+.row d-flex align-items-center mt-4 mb-4{
+  background-color: red;
+}
